@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mi:
 🎓 Técnico en Programación Web | Estudiante de Bases de Datos<br><br>Apasionado por la tecnología y el aprendizaje constante. Actualmente curso el técnico en programación de bases de datos y planeo continuar mi formación en ciberseguridad y redes para fortalecer mis conocimientos.<br><br>Me interesa el análisis lógico, la resolución de problemas y el desarrollo de soluciones prácticas.<br><br>💡 Tecnologías que manejo:<br><br>HTML, CSS, PHP, Bootstrap<br><br>Aprendiendo SQL y Python<br><br>Comparto proyectos con el objetivo de practicar, mejorar y aportar a la comunidad. Siempre abierto a nuevos retos y aprendizajes.
 
 
